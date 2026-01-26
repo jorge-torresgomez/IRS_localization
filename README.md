@@ -61,9 +61,6 @@ The code in this file depicts a 3D plot of the reflection coefficient of the IRS
 - 📁 **[icons/](./https://github.com/jorge-torresgomez/IRS_localization/tree/main/icons)**  
   Includes icons to represent a BS, MU, and the IRS, which is used for plotting the scenario in Fig. 1.
 
-- 📁 **[data/](./data)**  
-  Generated datasets (power maps, MU layouts, results).
-
 ## Features
 - **RSS-based localization via IRS scanning:** Estimate MU location by maximizing received power over a grid.
 - **Multi-user interference analysis:** evaluate how localization error changes with additional interfering MUs.
