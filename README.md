@@ -1,4 +1,4 @@
-# Localization in IRS-assisted links
+# Localization Methods in IRS-assisted links
 This repository contains Matlab code that implements a localization method supported by an Intelligent Reflective Surface (IRS) device.
 
 ## Description
@@ -15,7 +15,7 @@ The MU position is estimated by locating the **peak of the received power surfac
 Fig. 1: IRS-assisted localization scenario: BS scans the x-y plane by steering the IRS beam and records received power.
 </p>
 
-### Conceptual workflow (paper overview)
+### Conceptual workflow
 - **Area scanning:** The BS configures the IRS to point to each grid location (block) in the x-y plane and records received power. 
 - **Peak-based estimate:** The MU location is estimated as the grid coordinate with the maximum received power, see the results of power measurements in Fig. 2.
 
